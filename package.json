@@ -1,15 +1,23 @@
 {
-  "name": "hw1",
+  "name": "homeworkn1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tasks:\r 1.Install LST NodeJS version\r 2.Initialize package.json\r 3.Install fs-extra package globally\r 4.Install fs-extra package globally with --save-dev",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvetSargsyan/HomeWorkN1.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Avet",
   "license": "ISC",
-  "dependencies": {
+  "bugs": {
+    "url": "https://github.com/AvetSargsyan/HomeWorkN1/issues"
+  },
+  "homepage": "https://github.com/AvetSargsyan/HomeWorkN1#readme",
+  "devDependencies": {
     "fs-extra": "^10.1.0"
   }
 }
